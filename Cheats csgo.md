@@ -5,4 +5,4 @@
 5. noclip - Fly through walls and textures
 6. weapon_recoil_scale 0 - turning off recoil
 7. sv_infinite_ammo 1 - Turn on the endless rounds.
-8. ent_fire player addoutput «ModelScale 0» - aim-bot
+8. ent_fire player addoutput «ModelScale 0» - aim-bot(Не работает)
